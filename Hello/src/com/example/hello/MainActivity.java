@@ -11,11 +11,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        init();
     }
 
-	private void init() {
-		// TODO Auto-generated method stub
-		
-	}
 }
