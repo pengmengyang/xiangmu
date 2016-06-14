@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">鸿鹏扫描操作</string>
+    <string name="phone">电　话:</string>
+    <string name="password">密　码:</string>
+    <string name="memberpassword">记住密码</string>
+    <string name="autologin">自动登录</string>
+    <string name="login">登录</string>
+    <string name="update_password">修改密码</string>
+    <string name="consignee_scan">收件扫描</string>
+    <string name="send_scan">发件扫描</string>
+    <string name="arrive_scan">到件扫描</string>
+    <string name="pai_scan">派件扫描</string>
+    <string name="deal_consignee_bill">交收件单</string>
+    <string name="deal_pai_bill">交派件单</string>
+    <string name="sign_in">签收录入</string>
+    <string name="abnormal_register">异常登记</string>
+    <string name="tracking_select">跟踪查询</string>
+    <string name="recipients">收件员</string>
+    <string name="input_or_scan_waybill_number">输入或扫描运单编号</string>
+    <string name="scan">扫描</string>
+    <string name="submit">提交</string>
+    <string name="next_station">下一站</string>
+    <string name="previous_station">上一站</string>
+    <string name="pai_man">派件员</string>
+    <string name="recipient">签   收   人</string>
+    <string name="please_input_user_name">请输入姓名</string>
+    <string name="signature_take_photo">签名拍照</string>
+    <string name="abnormal_reson">异常原因</string>
+    <string name="damaged">破损</string>
+    <string name="delay">延误</string>
+    <string name="lose">丢失</string>
+    <string name="rejection">拒收</string>
+    <string name="waybill_number">运单编号</string>
+    <string name="add">添加</string>
+    <string name="sign_in_piece_number">扫描计数</string>
+    <string name="piece">票</string>
+    <string name="zero">0</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="corde_scanner">二维码扫描</string>
+    <string name="back">返回</string>
+    <string name="enter_the_original_password">输入原始密码</string>
+    <string name="enter_new_password">输入新密码</string>
+    <string name="retype_new_password">再次输入新密码</string>
+    <string name="billway_number">运单号</string>
+    <string name="select">查询</string>
+    <string name="input_waybill_number">输入运单编号</string>
+
+</resources>

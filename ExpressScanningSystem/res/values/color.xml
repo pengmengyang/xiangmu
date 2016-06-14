@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <color name="background_change_no_checked">#2020FF</color>
+    <color name="background_change_checked">#FFFFFF</color>
+    <color name="listview_checked_bg">#D6D6D8</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+
+</resources>
