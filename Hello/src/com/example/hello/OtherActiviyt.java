@@ -9,6 +9,13 @@ public class OtherActiviyt extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
+		
+		init();
+	}
+
+	private void init() {
+		// TODO Auto-generated method stub
+		
 	}
 	
 }
